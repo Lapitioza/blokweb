@@ -31,6 +31,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Stand van zaken
 
 -dit ging goed & dit was lastig-
+Wat ik best lastig vond was het vinden van de iconen en de afbeeldingen die de site gebruikt. Nadat ik eenmaal wist hoe ik het kon vinden, was het best makkelijk en snel. Er zijn echter wel een paar complicaties waar ik tegen aanloop. Sommige afbeeldingen zijn geen afbeeldingen, maar een stukje video. Ik heb geen idee hoe ik deze moet toevoegen in mijn HTML. Behalve dat ging het best prima.
 
 **Screenshot(s):**
 
@@ -54,8 +55,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![Homepage](images/homepagefig.png),![pagina 1](images/paginafig.png), ![pagina 2](images/pagina2fig.png)
+![Homepage](images/homepagefig.png), ![pagina 1](images/paginafig.png), ![pagina 2](images/pagina2fig.png)
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/figma.png) ![detail breakdown schets](images/detailfigma.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/figma_breakdown.png) ![detail breakdown schets](images/detailfigma.png)

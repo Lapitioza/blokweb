@@ -3,3 +3,27 @@
   box-sizing:border-box;  
 }
 
+img#logo {
+  max-width: 2em;
+}
+
+img#hamburgermenu {
+  max-width: 2em
+}
+
+img.icons {
+  max-width: 2em;
+}
+
+img.afbeelding {
+  max-width: 100%;
+}
+section:nth-of-type(3){
+  background-color: black;
+}
+blockquote:nth-of-type(1) {
+  color: white;
+}
+h2:nth-of-type(1) {
+  color: white;
+}
