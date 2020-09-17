@@ -36,6 +36,7 @@ Wat ik best lastig vond was het vinden van de iconen en de afbeeldingen die de s
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent-
+![Progressie van m'n site](images/progressiefigma.png)
 
 ### Agenda voor meeting
 
