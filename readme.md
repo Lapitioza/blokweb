@@ -34,8 +34,7 @@ Het positioneren van elemeneten vond ik nog best lastig. Daarnaast kreeg ik mijn
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent-
-![Progressie van m'n site](images/voortgang2.png)
-
+![voortgang2](images/voortgang2.png)
 
 ### Stand van zaken
 
