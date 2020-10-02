@@ -28,6 +28,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 1 (week 3)
 
+-dit ging goed & dit was lastig-
+Het positioneren van elemeneten vond ik nog best lastig. Daarnaast kreeg ik mijn icons niet zoals ik ze wilde hebben. Mijn afbeelding scalen ging daarentegen perfect.
+
+**Screenshot(s):**
+
+-screenshot(s) van hoe ver je bent-
+![Progressie van m'n site](images/voortgang2.png)
+
+
 ### Stand van zaken
 
 -dit ging goed & dit was lastig-
